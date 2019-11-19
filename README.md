@@ -1,2 +1,4 @@
 # week2-102-git
-In class git workshop demo 2
+Emily Millison
+11/19/19
+Git Workshop Week 2
